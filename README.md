@@ -5,7 +5,15 @@
 [![Poetry](https://img.shields.io/badge/Poetry-2.x-blueviolet)](https://python-poetry.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Open-source microservice for **face embedding, vector search, and content safety checks** — attendance, onboarding, and face-based workflows.
+## 👁️ ZepIris — Face Authentication at Scale
+
+**No OTPs. No registers. No buddy punching. Just a selfie.**
+
+ZepIris is Zepto's purpose-built face authentication platform — open-sourced for teams running identity verification at operational scale.
+
+It handles the full pipeline: face detection, embedding generation, vector search, and spoof/blur/nudity flagging. Designed to work on budget smartphones, in low light, under high concurrency.
+
+If you're running attendance or identity workflows at scale and don't want to stitch together multiple vendors, this is it.
 
 **Current version:** v1.0.0. URL paths use `/v1/...` for the HTTP API; OpenAPI `info.version` and the Python package follow semver (`pyproject.toml` / `zepiris.version`).
 
