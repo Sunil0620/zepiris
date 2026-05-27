@@ -817,7 +817,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 If you use ZepIris in research or production, please cite:
 
 ```bibtex
-@software{zepiris2024,
+@software{zepiris2026,
   title={ZepIris: Open-source face embedding and content safety microservice},
   author={Zepto Data Science Team},
   year={2026},
